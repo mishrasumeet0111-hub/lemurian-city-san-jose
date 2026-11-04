@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://san-jose.lemurianstudios.com/sitemap.xml
